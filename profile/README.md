@@ -155,7 +155,7 @@ QCA는 Apache 2.0 License를 따르는 오픈 소스 프로젝트입니다. <br/
 ## FAQ
 > **QCA는 어떤 방식으로 동작하나요?**
 
-
+[데모](https://github.com/bsonCrew/.github/blob/main/%E1%84%83%E1%85%A6%E1%84%86%E1%85%A9.gif)로 확인하실 수 있습니다.
 
 > **QCA를 통해 얻은 점수는 신뢰성이 있나요?**
 
