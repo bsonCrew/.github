@@ -126,7 +126,7 @@ npm install --save vnu-jar
 
 ```
 filePath={QCA_Server의 상위 디렉토리까지의 절대 경로}
-utilPath={QCA_Server부터 프로젝트 내의 util 디렉토리까지의 절대 경로}/QCA_Server/src/main/java/com/example/QCA/QualityControlAutomation/common/util
+utilPath={QCA_Server부터 프로젝트 내의 util 디렉토리까지의 절대 경로}
 vnuPath=/node_modules/vnu-jar/build/dist/vnu.jar
 outputPath=/QCA_Server/src/output/
 ```
